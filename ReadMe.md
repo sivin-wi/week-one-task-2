@@ -5,3 +5,4 @@
 2. CSS  ![img](./icon/css3.svg)
     1. Grid
     2. Flex Box
+> **Display size : 1440px**
